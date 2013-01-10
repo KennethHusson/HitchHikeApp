@@ -1,0 +1,4 @@
+HitchHikeApp
+============
+
+Hitchhike android application
